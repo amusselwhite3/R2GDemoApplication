@@ -59,6 +59,7 @@ class SharedEmailViewModel : ViewModel() {
                         .parse(it.date.replace("Z", "+0000"))
                     date
                 }
+                errorText.postValue("")
                 emailData.postValue(emailList)
                 success.postValue(true)
             } else{
