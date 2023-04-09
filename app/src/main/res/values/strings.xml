@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rooms2GoDemoApp</string>
+    <string name="invalid_email_error_text">Please enter a valid email address</string>
+    <string name="date_placeholder">1/22/2022</string>
+    <string name="list_placeholder">THIS IS A LOT OF TEXT LETSS MAKE SURE IT ADAPTS PROPERLY</string>
+    <string name="rooms_to_go_logo">rooms to go logo</string>
+    <string name="message_center">Message Center</string>
+    <string name="email_prompt">Enter your email to search for your messages</string>
+    <string name="generic_error">I\'m sorry an error occured, please try again later</string>
+    <string name="email_placeholder">Enter Email here</string>
+    <string name="search_text">Search</string>
+</resources>
